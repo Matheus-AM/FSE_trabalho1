@@ -72,7 +72,7 @@ int main() {
   init();
   signal(SIGINT, shutdown_program);
   printf("\nTrabalho 1 de FSE\n"
-          "Matheus Amaral Moreira - 170080703"
+          "Matheus Amaral Moreira - 170080703\n"
           );
 
   pid_routine();
